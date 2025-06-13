@@ -10,6 +10,7 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 
 ## Driving & Route
 - Google Maps [destination locations](https://maps.app.goo.gl/4R2HD3p8fWdf19F46)
+
 ### Route Map
 - About `1200 miles`
 - About `22 hours`
@@ -28,16 +29,58 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 - Take Interstate/Hwy 41 northbound for ~90% of the trip
 
 ### Bond Falls
+- Great start to the trip
+- Short walk to stretch the legs after the ~4 hour drive
+- There is a hydroelectric power site near the top of the falls ran by Upper Peninsula Power Company
+
+![Bond Falls Center](personal_photos/BondFallsCenter.jpg)
+![Bond Falls Left Center](personal_photos/BondFallsLeftCenter.jpg)
+![Bond Falls Left Center Landscape](personal_photos/BondFallsLeftCenterLandscape.jpg)
+![Bond Falls Peripheral](personal_photos/BondFallsPeripheral.jpg)
+![Bond Falls Right](personal_photos/BondFallsRight.jpg)
+![Bond Falls Upriver](personal_photos/BondFallsUpriver.jpg)
+![Bond Falls Upriver Lanscape](personal_photos/BondFallsUpriverLanscape.jpg)
+![Bond Falls Snapping Turtle](personal_photos/BondFallsSnappingTurtle.jpg)
 
 ### Agate Falls
+- Tree leaves covered the view of the large falls
+- The site is a roadside park and has an under bridge walkway to get to the falls
+    - The graphitti under the bridge included a great quote from the movie `The Princess Bride`
+        - *Hello. My name is Inigo Montoya. You killed my father. Prepare to die*
+    - The graphitti also told me to call [*Jenny*](https://www.youtube.com/watch?v=6WTdTwcmxyo) at `867-5309`, so basically I got a girl's number.
+        - *"I saw your name and number on the wall"*
+
+![Agate Falls](professional_photos/AgateFalls.jpg)
+![Agate Falls Upriver](personal_photos/AgateFallsUpriver.jpg)
 
 ### O Kun de Kun Falls
+- This trail includes both the `O Kun de Kun Falls` and the `Konteka Falls`
+- There was a logbook located at the suspension bridge by `O Kun de Kun Falls` that was an interesting read.
 
-#### Konteka Falls
+![O Kun de Kun Falls Overview](personal_photos/OKundeKunFallsOverview.jpg)
+![O Kun de Kun Falls Major](personal_photos/OKundeKunFallsMajor.jpg)
+![O Kun de Kun Falls Minor](personal_photos/OKundeKunFallsMinor.jpg)
 
-### Preque Isle State Park
+### Konteka Falls
+- The *Witch Tree or Spirit Tree* (where a tree roots grow out over rocks and open water) was prominent
+    - [Wikipedia *Witch Tree*](https://en.wikipedia.org/wiki/Witch_Tree)
+
+![Konteka Falls](personal_photos/KontekaFalls.jpg)
+![Konteka Falls Major](personal_photos/OKundeKunFallsMajor.jpg)
+![Konteka Falls Minor](personal_photos/OKundeKunFallsMinor.jpg)
+![Konteka Falls Tree Overgrowth](personal_photos/KontekaFallsTreeOvergrowth.jpg)
+
+### Presque Isle State Park
 
 #### Lake Superior
+- There was one suprsingly calm evening where the waters of Lake Superior were still. I took this opportunity to skip rocks as the rocky beaches are full of perfect skipping stones!
+- The last photo in this section is a typical `41° F` beach day in June! Wind chill factor made the winter hat and coat mandatory.
+
+![Lake Superior Calm Waters](personal_photos/LakeSuperiorCalmWaters.jpg)
+![Lake Superior Windy Waters](personal_photos/LakeSuperiorWindyWaters.jpg)
+![Lake Superior Handprints](personal_photos/LakeSuperiorHandprints.jpg)
+![Lake Superior](personal_photos/LakeSuperiorPresqueIsleCampground.jpg)
+![Lake Superior](personal_photos/LakeSuperiorTemperature.jpg)
 
 #### Campsite
 
