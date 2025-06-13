@@ -23,7 +23,7 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 
 ![Driving Route](driving_maps/TreeLinedHighways.jpg)
 
-## Porcupine Mountains
+## Porcupine Mountains a.k.a. the Porkies
 - Located in the western UP just north of the Wisonsin border
 - About 4.5 hour drive
 - Take Interstate/Hwy 41 northbound for ~90% of the trip
@@ -73,26 +73,58 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 ### Presque Isle State Park
 
 #### Lake Superior
-- There was one suprsingly calm evening where the waters of Lake Superior were still. I took this opportunity to skip rocks as the rocky beaches are full of perfect skipping stones!
+- There was one suprsingly calm evening where the waters of `Lake Superior` were still. I took this opportunity to skip rocks as the rocky beaches are full of perfect skipping stones!
 - The last photo in this section is a typical `41° F` beach day in June! Wind chill factor made the winter hat and coat mandatory.
 
 ![Lake Superior Calm Waters](personal_photos/LakeSuperiorCalmWaters.jpg)
 ![Lake Superior Windy Waters](personal_photos/LakeSuperiorWindyWaters.jpg)
+![Presque Isle Beach Skipping Stones](personal_photos/PresqueIsleBeachSkippingStones.jpg)
+![Lake Superior Presque Isle Campground](personal_photos/LakeSuperiorPresqueIsleCampground.jpg)
 ![Lake Superior Handprints](personal_photos/LakeSuperiorHandprints.jpg)
-![Lake Superior](personal_photos/LakeSuperiorPresqueIsleCampground.jpg)
-![Lake Superior](personal_photos/LakeSuperiorTemperature.jpg)
+![Lake Superior Temperature](personal_photos/LakeSuperiorTemperature.jpg)
 
 #### Campsite
+- The campsite butted up against `Lake Superior`. However, there was a hundred foot bluff that prevented easy lakefront access.
+    - There was a wooden staircase that brought you down to the lake
+- Hot meals were primarily cubed potatoes, diced onions, scrambled eggs, and seasonings (garlic salt, red pepper flakes, garlic powder, topped with parsley) fried in butter.
 
-#### Manido Falls
+![Presque Isle State Park Campsite](personal_photos/PresqueIsleStateParkCampsite.jpg)
+![Presque Isle State Park Campsite Fire](personal_photos/PresqueIsleStateParkCampsiteFire.jpg)
+![Presque Isle State Park Campsite Lunch](personal_photos/PresqueIsleCampsiteLunch.jpg)
+![Presque Isle State Park Campsite Beach](personal_photos/PresqueIsleStateParkCampsiteBeach.jpg)
 
-#### Manabezho Falls
+### Manido Falls
+![Manido Falls](personal_photos/ManidoFalls.jpg)
+
+### Manabezho Falls
+- The downriver falls (second photo) was taken from a suspension bridge over the river.
+- The left hand side of the photo shows circular rock erosion where the water spins around in a whirpool fashion
+
+![Manabezho Falls](personal_photos/ManabezhoFalls.jpg)
+![Manabezho Falls Downriver Suspension Bridge](personal_photos/ManabezhoFallsDownriverSuspensionBridge.jpg)
 
 ### Lake of the Clouds
+- `Lake of the Clouds` is the most popular destination in the Porcupine Mountains
+
+![Lake Of the Clouds Landscape](personal_photos/LakeOftheCloudsLandscape.jpg)
+![Lake Of the Clouds Vertical](personal_photos/LakeOftheCloudsVertical.jpg)
+![Lake Of the Clouds](personal_photos/LakeOftheClouds.jpg)
 
 ### North Mirror Lake
+- `North Mirror Lake` had two rental cabins with provided canoes accessible via backpacking.
+- The lowlands between the mountains were swampy and had long boardwalks, with many `garter snakes` sunbathing on the planks.
+
+![North Mirror Lake](personal_photos/NorthMirrorLake.jpg)
+![North Mirror Lake 2](personal_photos/NorthMirrorLake2.jpg)
+![North Mirror Lake Lowlands](personal_photos/NorthMirrorLakeLowlands.jpg)
+![North Mirror Lake Trail Panorama](personal_photos/NorthMirrorLakeTrailPanorama.jpg)
 
 ### Summit Peak Observation Tower
+- Probably a better view in the fall vs the spring! I stole from photos from online to show what that would look like.
+![Summit Peak Lookout](personal_photos/SummitPeakLookout.jpg)
+![Summit Peak Lookout Government Peak](personal_photos/SummitPeakLookoutGovernmentPeak.jpg)
+![Summit Peak Lookout Tower](professional_photos/SummitPeakLookoutTower.jpg)
+![Summit Peak Lookout Tower Fall](professional_photos/SummitPeakLookoutTowerFall.jpg)
 
 ### Trappers Falls
 
