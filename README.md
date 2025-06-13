@@ -10,7 +10,7 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 ## Album Cover
     Q: How did you take this?
     A: No, I would not talk to someone. Instead I balanced rocks against my phone and used the timer.
-![Lake Superior](personal_photos/Lake%20Superior.jpg)
+![Lake Superior](personal_photos/LakeSuperior.jpg)
 
 ## Driving & Route
 - Google Maps [destination locations](https://maps.app.goo.gl/4R2HD3p8fWdf19F46)
