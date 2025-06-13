@@ -4,8 +4,8 @@ Photos from my solo camping trip in June 2025 to the Upper Peninsula of Michigan
 It is recommended that you listen to the (obligatory) classic song ["Waterfalls" by TLC](https://www.youtube.com/watch?v=R09S7CNPhFs&list=RDR09S7CNPhFs&start_radio=1) for the best viewing experience.
 
 ## Black Bear Spottings: `2`
-1. From the car (pictured in `Chapel Falls`)
-2. On the `Upper and Lower Tahquamenon Falls` at `Tahquamenon Falls State Park`
+1. From the car - pictured in [Chapel Falls](#chapel-falls)
+2. On the `Upper and Lower Tahquamenon Falls` at [Tahquamenon Falls State Park](#tahquamenon-falls-state-park)
 
 ## Album Cover
     Q: How did you take this?
