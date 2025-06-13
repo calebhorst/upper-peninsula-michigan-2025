@@ -121,23 +121,33 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 
 ### Summit Peak Observation Tower
 - Probably a better view in the fall vs the spring! I stole from photos from online to show what that would look like.
+
 ![Summit Peak Lookout](personal_photos/SummitPeakLookout.jpg)
 ![Summit Peak Lookout Government Peak](personal_photos/SummitPeakLookoutGovernmentPeak.jpg)
 ![Summit Peak Lookout Tower](professional_photos/SummitPeakLookoutTower.jpg)
 ![Summit Peak Lookout Tower Fall](professional_photos/SummitPeakLookoutTowerFall.jpg)
 
 ### Trappers Falls
+- `Trappers Falls` is about a quarter of the way up the hike from the trailhead to `Government Peak`
+
+![Trappers Falls](personal_photos/TrappersFalls.jpg)
 
 ### Government Peak
 - Peak elevation is 1850 feet
 - Not a great view from the top in summer. Tree coverage makes the sweeping lanscape views difficult to see through the thick leaves.
-- Would be a cool backpacking site, as there is a camping setup on the peak
+- Would be a cool backpacking site as there is a campsite on the peak
+
+![Government Peak River](personal_photos/GovernmentPeakRiver.jpg)
+![Government Peak River 2](personal_photos/GovernmentPeakRiver2.jpg)
+![Government Peak Sign](personal_photos/GovernmentPeakSign.jpg)
 
 ## Copper Harbor
 
 ### The Elusive Montreal Falls
 - My white whale. Google maps reported the trailhead about 15 miles into a seasonal ATV road.
 - I never did make it to the falls, but I gave the Corolla some off road experience.
+
+![Upper Montreal Falls](professional_photos/UpperMontrealFalls.jpg)
 
 ## Pictured Rocks National Lakeshore
 
