@@ -3,6 +3,10 @@ Photos from my solo camping trip in June 2025 to the Upper Peninsula of Michigan
 
 It is recommended that you listen to the (obligatory) classic song ["Waterfalls" by TLC](https://www.youtube.com/watch?v=R09S7CNPhFs&list=RDR09S7CNPhFs&start_radio=1) for the best viewing experience.
 
+## Black Bear Spottings: `2`
+1. From the car (pictured in `Chapel Falls`)
+2. On the `Upper and Lower Tahquamenon Falls` at `Tahquamenon Falls State Park`
+
 ## Album Cover
     Q: How did you take this?
     A: No, I would not talk to someone. Instead I balanced rocks against my phone and used the timer.
@@ -74,14 +78,12 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 
 #### Lake Superior
 - There was one suprsingly calm evening where the waters of `Lake Superior` were still. I took this opportunity to skip rocks as the rocky beaches are full of perfect skipping stones!
-- The last photo in this section is a typical `41° F` beach day in June! Wind chill factor made the winter hat and coat mandatory.
 
 ![Lake Superior Calm Waters](personal_photos/LakeSuperiorCalmWaters.jpg)
 ![Lake Superior Windy Waters](personal_photos/LakeSuperiorWindyWaters.jpg)
 ![Presque Isle Beach Skipping Stones](personal_photos/PresqueIsleBeachSkippingStones.jpg)
 ![Lake Superior Presque Isle Campground](personal_photos/LakeSuperiorPresqueIsleCampground.jpg)
 ![Lake Superior Handprints](personal_photos/LakeSuperiorHandprints.jpg)
-![Lake Superior Temperature](personal_photos/LakeSuperiorTemperature.jpg)
 
 #### Campsite
 - The campsite butted up against `Lake Superior`. However, there was a hundred foot bluff that prevented easy lakefront access.
@@ -102,6 +104,12 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 
 ![Manabezho Falls](personal_photos/ManabezhoFalls.jpg)
 ![Manabezho Falls Downriver Suspension Bridge](personal_photos/ManabezhoFallsDownriverSuspensionBridge.jpg)
+
+### Little Carp River
+- TBD on the fish identification. Could be sort sort of `bullhead`
+
+![Litte Carp River Trail Panorama](personal_photos/LitteCarpRiverTrailPanorama.jpg)
+![Litte Carp River Fish](personal_photos/LittleCarpRiverFish.jpg)
 
 ### Lake of the Clouds
 - `Lake of the Clouds` is the most popular destination in the Porcupine Mountains
@@ -142,41 +150,102 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 ![Government Peak Sign](personal_photos/GovernmentPeakSign.jpg)
 
 ## Copper Harbor
+- It was almost the summer solstice, so being this far north meant daylight well past `10:15pm EST`!
+
+![Copper Harbor Campsite](personal_photos/CopperHarborCampsite.jpg)
+![Copper Harbor Daylight](personal_photos/CopperHarborDaylight.jpg)
 
 ### The Elusive Montreal Falls
 - My white whale. Google maps reported the trailhead about 15 miles into a seasonal ATV road.
 - I never did make it to the falls, but I gave the Corolla some off road experience.
 
+![Copper Harbor Offroad Trail - Montreal Falls](personal_photos/CopperHarborOffroadTrail-MontrealFalls.jpg)
 ![Upper Montreal Falls](professional_photos/UpperMontrealFalls.jpg)
 
 ## Pictured Rocks National Lakeshore
+![Pictured Rocks](personal_photos/PicturedRocks.jpg)
+![Pictured Rocks2](personal_photos/PicturedRocks2.jpg)
+![Pictured Rocks3](personal_photos/PicturedRocks3.jpg)
+![Pictured Rocks4](personal_photos/PicturedRocks4.jpg)
+![Pictured Rocks5](personal_photos/PicturedRocks5.jpg)
+![Pictured Rocks6](personal_photos/PicturedRocks6.jpg)
+![Pictured Rocks7](personal_photos/PicturedRocks7.jpg)
 
 ### Upper Overlook
+![Upper Overlook](personal_photos/PicturedRocksUpperOverlook.jpg)
 
 ### Miners Falls & Beach
+![Miners Falls](personal_photos/MinersFalls.jpg)
+![Miners Beach Entrance](personal_photos/MinersBeachEntrance.jpg)
+![Miners Beach](personal_photos/MinersBeach.jpg)
 
 ### Chapel Falls
+- Best hike of the trip!
+    - Diverse biomes along the hike
+    - Perfect hiking weather: `60° F` with a breeze from `Lake Superior`
+    - Combination of waterfalls, beaches, woodlands, and rock cliffs on the lakeshore
+    - Captured a photo of a `black bear` on the drive into the trailhead!
+
+![Chapel Falls Trail](personal_photos/ChapelFallsTrail.jpg)
+![Chapel Falls](personal_photos/ChapelFalls.jpg)
+![Chapel Falls 2](personal_photos/ChapelFalls2.jpg)
+![Chapel Falls Upriver](personal_photos/ChapelFallsUpriver.jpg)
+![Chapel Rock](personal_photos/ChapelRock.jpg)
+![Chapel Falls Bear](personal_photos/ChapelFallsBear.jpg)
 
 ### Mosquito Falls
+- Way less mosquitos than the name implies. Could be an Iceland/Greenland situation to scare people off.
+
+![Upper Mosquito Falls](personal_photos/MosquitoFallsUpper.jpg)
+![Lower Mosquito Falls](personal_photos/MosquitoFallsLower.jpg)
 
 ### North Gemini Lake (State Forest Campground)
 - Bring your bugspray. The mosquito to human ratio at my campsite was roughly `1,000 mosquitoes : 1 Caleb`
+    - Maybe this place should have been named `Mosquito Lake`
+
+![North Gemini Lake Campsite](personal_photos/NorthGeminiLakeCampsite.jpg)
+![North Gemini Lake Dinner](personal_photos/NorthGeminiLakeDinner.jpg)
 
 ### Log Slide Overlook
+- The `Logslide Overlook` was a ~300 feet vertical dropoff made solely of windblown sand. A hike down might take a few minutes, but a hike back up the sandy slope was estimated at a few hours.
+    - I went down `1/4th` of the way and found it took about `5 full minutes` to get back to the top. I imagine it would have taken almost an hour to do the entire climb.
+
+![Pictured Rocks Logslide Top](personal_photos/PicturedRocksLogslideTop.jpg)
+![Pictured Rocks Logslide Dropoff](personal_photos/PicturedRocksLogslideDropoff.jpg)
+![Pictured Rocks Logslide Coastline](personal_photos/PicturedRocksLogslideCoastline.jpg)
 
 ### Lake Superior Overlook
+- Just a typical `41° F` beach day in June! Wind chill factor made the winter hat and coat mandatory.
+
+![Lake Superior Temperature](personal_photos/LakeSuperiorTemperature.jpg)
 
 ## Tahquamenon Falls State Park
 
 ### Upper Falls
+![Tahquamenon Falls Upper](personal_photos/TahquamenonFallsUpper.jpg)
 
 ### Lower Falls
+![Tahquamenon Falls Lower](personal_photos/TahquamenonFallsLower.jpg)
+![Tahquamenon Falls Lower Upriver](personal_photos/TahquamenonFallsLowerUpriver.jpg)
 
-### River Trail
-- Park signs claimed this was a round trip 5 hour hike `(8 miles total for out and back)`. I took this as a challenge and completed the hike in just over 2.5 hours.
-- Hey bear! I met the same number of bears on the hike from the Upper to the Lower falls as humans.
+### River Trail: Upper and Lower Tahquamenon Falls
+- Park signs claimed this was a round trip `5 hour` hike (`8 miles` total for out and back). I took this as a challenge and completed the hike in just over `2.5 hours`.
+- Hey bear! I met the same number of **bears** on the hike from the Upper to the Lower falls as humans `(1)`.
 
-## Kitch-iti-kipi
+## Kitch-iti-kipi a.k.a. *The Big Spring*
+- The water from the underground spring can be seen inflowing and agitating the sand in the **video** below. 
+    - It is a constant `45° F`!
+    - `10,000` gallons of water per minutes
+- The spring feeds into `Indian Lake`
+- `Lake trout` can be seen in the water below when on the observation raft
+- [DNR information site](https://www2.dnr.state.mi.us/parksandtrails/details.aspx?id=425&type=SPRK)
+
+![Kitch-iti-kipi](professional_photos/Kitch-iti-kipi.jpg)
+![Kitch-iti-kipi Watercraft](personal_photos/Kitch-iti-kipiWatercraft.jpg)
+![Kitch-iti-kipi Lake Trout](personal_photos/Kitch-iti-kipiLakeTrout.jpg)
+<video width="640" height="480" controls>
+  <source src="personal_photos/Kitch-iti-kipiSprings.mp4" type="video/mp4">
+</video>
 
 
 ## Hiking Trails Overview
