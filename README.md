@@ -17,6 +17,10 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 ![Driving Route](driving_maps/Driving%20Route.png)
 
 ### Scenic Roadways
+- Quiet. No traffic. Very scenic and peaceful driving throughout the area.
+- Road conditions were typically excellent!
+
+![Driving Route](driving_maps/TreeLinedHighways.jpg)
 
 ## Porcupine Mountains
 - Located in the western UP just north of the Wisonsin border
@@ -77,7 +81,7 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 
 ### Lake Superior Overlook
 
-## Tahquemenon Falls State Park
+## Tahquamenon Falls State Park
 
 ### Upper Falls
 
@@ -88,3 +92,17 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 - Hey bear! I met the same number of bears on the hike from the Upper to the Lower falls as humans.
 
 ## Kitch-iti-kipi
+
+
+## Hiking Trails Overview
+| Trail Name       | Location           | Mileage (Round Trip) |
+|------------------|--------------------|-----------------------|
+| Example Trail 1  | Example Location 1 | 5.2 miles             |
+| Example Trail 2  | Example Location 2 | 8.0 miles             |
+| Example Trail 3  | Example Location 3 | 3.5 miles             |
+
+
+### Trail Maps
+- [Porcupine Mountains State Park](trail_maps/PorcupineMountainsStatePark.pdf)
+- [Pictured Rocks National Lakeshore](trail_maps/PicturedRocksNationalLakeshore.pdf)
+- [Tahquamenon Falls State Park](trail_maps/TahquamenonFallsStatePark.pdf)
