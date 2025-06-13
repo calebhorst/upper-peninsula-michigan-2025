@@ -28,9 +28,6 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 ![Driving Route](driving_maps/TreeLinedHighways.jpg)
 
 ## Porcupine Mountains a.k.a. the Porkies
-- Located in the western UP just north of the Wisonsin border
-- About 4.5 hour drive
-- Take Interstate/Hwy 41 northbound for ~90% of the trip
 
 ### Bond Falls
 - Great start to the trip
@@ -115,7 +112,6 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 - `Lake of the Clouds` is the most popular destination in the Porcupine Mountains
 
 ![Lake Of the Clouds Landscape](personal_photos/LakeOftheCloudsLandscape.jpg)
-![Lake Of the Clouds Vertical](personal_photos/LakeOftheCloudsVertical.jpg)
 ![Lake Of the Clouds](personal_photos/LakeOftheClouds.jpg)
 
 ### North Mirror Lake
@@ -141,13 +137,13 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 ![Trappers Falls](personal_photos/TrappersFalls.jpg)
 
 ### Government Peak
-- Peak elevation is 1850 feet
+- Peak elevation is `1850` feet
 - Not a great view from the top in summer. Tree coverage makes the sweeping lanscape views difficult to see through the thick leaves.
 - Would be a cool backpacking site as there is a campsite on the peak
 
 ![Government Peak River](personal_photos/GovernmentPeakRiver.jpg)
 ![Government Peak River 2](personal_photos/GovernmentPeakRiver2.jpg)
-![Government Peak Sign](personal_photos/GovernmentPeakSign.jpg)
+![Government Peak Sign](professional_photos/GovernmentPeakSign.jpg)
 
 ## Copper Harbor
 - It was almost the summer solstice, so being this far north meant daylight well past `10:15pm EST`!
@@ -157,7 +153,7 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 
 ### The Elusive Montreal Falls
 - My white whale. Google maps reported the trailhead about 15 miles into a seasonal ATV road.
-- I never did make it to the falls, but I gave the Corolla some off road experience.
+- I never did make it to the `Montreal Falls`, but I gave the Corolla some off road experience.
 
 ![Copper Harbor Offroad Trail - Montreal Falls](personal_photos/CopperHarborOffroadTrail-MontrealFalls.jpg)
 ![Upper Montreal Falls](professional_photos/UpperMontrealFalls.jpg)
@@ -243,6 +239,7 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 ![Kitch-iti-kipi](professional_photos/Kitch-iti-kipi.jpg)
 ![Kitch-iti-kipi Watercraft](personal_photos/Kitch-iti-kipiWatercraft.jpg)
 ![Kitch-iti-kipi Lake Trout](personal_photos/Kitch-iti-kipiLakeTrout.jpg)
+
 <video width="640" height="480" controls>
   <source src="personal_photos/Kitch-iti-kipiSprings.mp4" type="video/mp4">
 </video>
