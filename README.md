@@ -45,11 +45,11 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 
 #### Manabezho Falls
 
-### Lake of the Clous
+### Lake of the Clouds
 
 ### North Mirror Lake
 
-### Summit Peak Lookout Tower
+### Summit Peak Observation Tower
 
 ### Trappers Falls
 
@@ -88,21 +88,34 @@ It is recommended that you listen to the (obligatory) classic song ["Waterfalls"
 ### Lower Falls
 
 ### River Trail
-- Park signs claimed this was a round trip 5 hour hike `(4 miles each way, total of 8 miles)`. I took this as a challenge and completed the hike in just over 2.5 hours.
+- Park signs claimed this was a round trip 5 hour hike `(8 miles total for out and back)`. I took this as a challenge and completed the hike in just over 2.5 hours.
 - Hey bear! I met the same number of bears on the hike from the Upper to the Lower falls as humans.
 
 ## Kitch-iti-kipi
 
 
 ## Hiking Trails Overview
-| Trail Name       | Location           | Mileage (Round Trip) |
-|------------------|--------------------|-----------------------|
-| Example Trail 1  | Example Location 1 | 5.2 miles             |
-| Example Trail 2  | Example Location 2 | 8.0 miles             |
-| Example Trail 3  | Example Location 3 | 3.5 miles             |
+| Trail Name                                                 | Location                                   | Mileage (Round Trip) | AllTrails Link |
+|------------------------------------------------------------|--------------------------------------------|-----------------------|----------------|
+| Bond Falls                                                | Bond Falls Scenic Site                     | 1.0 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/bond-falls) |
+| O Kun de Kun Falls                                        | Ottawa National Forest                     | 2.8 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/o-kun-de-kun-falls-loop) |
+| West River Trail and East River Trail Loop                | Porcupine Mountains Wilderness State Park  | 2.7 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/west-river-trail-and-east-river-trail-loop) |
+| Little Carp River Trail                                   | Porcupine Mountains Wilderness State Park  | 6.4 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/little-carp-river-trail) |
+| Lake of the Clouds                                        | Porcupine Mountains Wilderness State Park  | 1.8 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/lake-of-the-clouds) |
+| North Mirror Lake                                         | Porcupine Mountains Wilderness State Park  | 6.6 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/big-carp-river-correction-line-and-north-mirror-lake-loop) |
+| Summit Peak Observation Tower                             | Porcupine Mountains Wilderness State Park  | 1.0 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/summit-peak-observation-tower) |
+| Government Peak Trail                                     | Porcupine Mountains Wilderness State Park  | 9.2 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/government-peak-trail--4) |
+| Miners Castle and Miners Beach                            | Pictured Rocks National Lakeshore          | 3.0 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/miners-castle-and-miners-beach) |
+| Mosquito Falls and Chapel Falls via Chapel Loop           | Pictured Rocks National Lakeshore          | 10.4 miles            | [AllTrails](https://www.alltrails.com/trail/us/michigan/mosquito-falls-and-chapel-falls-via-chapel-loop) |
+| Miners Falls Trail                                        | Pictured Rocks National Lakeshore          | 1.2 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/miners-falls) |
+| Au Sable Point Lighthouse (from Logslide Overlook)        | Pictured Rocks National Lakeshore          | 4.0 miles             | [AllTrails](https://www.alltrails.com/trail/us/michigan/au-sable-point-lighthouse-from-au-sable-point-campground) |
+| Upper and Lower Tahquamenon Falls                         | Tahquamenon Falls State Park               | 10.2 miles            | [AllTrails](https://www.alltrails.com/trail/us/michigan/upper-and-lower-tahquamenon-falls) |
+
 
 
 ### Trail Maps
+- [Bond Falls](trail_maps/BondFalls.pdf)
 - [Porcupine Mountains State Park](trail_maps/PorcupineMountainsStatePark.pdf)
 - [Pictured Rocks National Lakeshore](trail_maps/PicturedRocksNationalLakeshore.pdf)
 - [Tahquamenon Falls State Park](trail_maps/TahquamenonFallsStatePark.pdf)
+- [Kitch-iti-kipi](trail_maps/Kitch-iti-kipi.pdf)
